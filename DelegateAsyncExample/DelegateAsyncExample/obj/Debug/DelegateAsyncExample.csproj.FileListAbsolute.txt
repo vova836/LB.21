@@ -1,0 +1,7 @@
+D:\DelegateAsyncExample\DelegateAsyncExample\bin\Debug\DelegateAsyncExample.exe.config
+D:\DelegateAsyncExample\DelegateAsyncExample\bin\Debug\DelegateAsyncExample.exe
+D:\DelegateAsyncExample\DelegateAsyncExample\bin\Debug\DelegateAsyncExample.pdb
+D:\DelegateAsyncExample\DelegateAsyncExample\obj\Debug\DelegateAsyncExample.csproj.AssemblyReference.cache
+D:\DelegateAsyncExample\DelegateAsyncExample\obj\Debug\DelegateAsyncExample.csproj.CoreCompileInputs.cache
+D:\DelegateAsyncExample\DelegateAsyncExample\obj\Debug\DelegateAsyncExample.exe
+D:\DelegateAsyncExample\DelegateAsyncExample\obj\Debug\DelegateAsyncExample.pdb
